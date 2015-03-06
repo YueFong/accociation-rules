@@ -29,6 +29,10 @@ For more yoy need to known:
 2.djdjdjdj
 3.ddddddd
 
+![image](.\22.png)
+<code>![image](.\22.png)
+
+
 
 
 
